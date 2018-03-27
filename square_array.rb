@@ -4,6 +4,6 @@ def square_array(array)
     number = number**2
     new_numbers = []
     new_numbers << number
-    #return new_numbers
+    return new_numbers
   end
 end
