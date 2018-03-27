@@ -3,6 +3,7 @@ def square_array(array)
   array.each do |number|
     number = number**2
     new_numbers = [number]
-    return new_numbers
+    #return new_numbers
   end
+  return new_numbers
 end
